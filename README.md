@@ -1,2 +1,3 @@
 # app
-this is test repo2
+this is my app
+this is new feature
